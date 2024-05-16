@@ -28,7 +28,7 @@ The main purpose of this application is to store the bank data of a user and pro
 
 ![About us](https://github.com/rovin201/Banking_Application/assets/96007395/6fadf495-38cc-46c5-9b5a-65e64ff1eea1)
 
-# Hardware and Software Requriements 
+# Hardware and Software Requirements 
 
 Hardware:
 - Windows 10 or above
